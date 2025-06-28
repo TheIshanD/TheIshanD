@@ -32,8 +32,10 @@ Here are some ideas to get you started:
 
 - 🎓 UT Austin
 - 🧑‍🔬 RL Research
-- 📫 Reach me at ishandasgupta at utexas.edu
+- 📫 Reach me at ishandasgupta@utexas.edu
 
 ---
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/LD2ZJ0pdNmCxFikNQ5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-penguin-pudgy-pengu-LD2ZJ0pdNmCxFikNQ5">via GIPHY</a></p>
 
 *"Life is short, code is long, and passion is forever"*
