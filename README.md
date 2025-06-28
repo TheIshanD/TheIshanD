@@ -36,6 +36,11 @@ Here are some ideas to get you started:
 
 ---
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/LD2ZJ0pdNmCxFikNQ5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-penguin-pudgy-pengu-LD2ZJ0pdNmCxFikNQ5">via GIPHY</a></p>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5wM3NyenM1Z3F4aGt1eHc4N3JjNDhxOWRpc2hlbjl0MmZ4Y3F4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="125" height="125"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThkdGNoZWxlOG96eWcybndycXBxa2R3OHZvdjFwazgyNjh0NHFvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="125" height="125"/>
+</div>
 
-*"Life is short, code is long, and passion is forever"*
+<div align="center">
+  <em>"Debugging is like being a detective in a crime movie where you're also the murderer."</em>
+</div>
